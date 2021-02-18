@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Keyflix/static/css/main.c7d714a0.chunk.css",
-    "main.js": "/Keyflix/static/js/main.4fdc6a56.chunk.js",
-    "main.js.map": "/Keyflix/static/js/main.4fdc6a56.chunk.js.map",
+    "main.js": "/Keyflix/static/js/main.26ce3ff3.chunk.js",
+    "main.js.map": "/Keyflix/static/js/main.26ce3ff3.chunk.js.map",
     "runtime-main.js": "/Keyflix/static/js/runtime-main.be970339.js",
     "runtime-main.js.map": "/Keyflix/static/js/runtime-main.be970339.js.map",
     "static/js/2.a93f199a.chunk.js": "/Keyflix/static/js/2.a93f199a.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.be970339.js",
     "static/js/2.a93f199a.chunk.js",
     "static/css/main.c7d714a0.chunk.css",
-    "static/js/main.4fdc6a56.chunk.js"
+    "static/js/main.26ce3ff3.chunk.js"
   ]
 }
